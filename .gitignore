@@ -1,0 +1,5 @@
+structure.md
+/main.py
+.logfire
+.env
+*__pycache__
